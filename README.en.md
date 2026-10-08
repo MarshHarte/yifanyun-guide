@@ -1,4 +1,4 @@
-# 一翻云 / 1FlyYun — Official access and practical guide · 2026-10-08
+# 一翻云 / 1FlyYun — Official access, VPN clients and proxy guide · 2026-10-08
 
 [简体中文](README.md) · [繁體中文](README.zh-TW.md) · **English** · [日本語](README.ja.md) · [한국어](README.ko.md) · [Русский](README.ru.md)
 
@@ -21,10 +21,6 @@ This edition covers the access list and the main setup checks. The Chinese editi
 
 These are website entrances, not proxy nodes. Several addresses may lead to the same account service; their number does not establish independent routes or speed.
 
-## What this guide focuses on
-
-1FlyYun first-use setup follows account, device and application checks. Registration, an active plan and a working client are separate milestones; confirm each before proceeding.
-
 ## A practical setup sequence
 
 1. Open one address below, sign in and check the current plan, remaining traffic and expiry. Registration, balance and an active subscription are separate states.
@@ -40,6 +36,10 @@ No. Website loading, account access, configuration retrieval and the actual prox
 ### Where should I confirm prices and compatibility?
 
 Use the current order and account documentation. Check the total payment, allowance, reset date, expiry, device rules and supported software together. Older promotions and screenshots do not define today's terms.
+
+## VPN, proxy subscriptions and client software
+
+VPN usually means a virtual private network. Chinese “jichang” services are subscription-based proxies; the broader label “accelerator” does not establish a particular protocol or game-acceleration capability. “科学上网” and “魔法” are informal terms, not plan features or speed guarantees. Use the account documentation to choose the supported client and subscription format.
 
 ## Checking the experience
 

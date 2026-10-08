@@ -1,0 +1,17 @@
+/*
+!/.gitattributes
+!/.gitignore
+!/README.md
+!/README.zh-TW.md
+!/README.en.md
+!/README.ja.md
+!/README.ko.md
+!/README.ru.md
+!/index.html
+!/robots.txt
+!/assets/
+/assets/*
+!/assets/app.js
+!/assets/styles.css
+!/assets/mark.svg
+!/assets/social-preview.png
